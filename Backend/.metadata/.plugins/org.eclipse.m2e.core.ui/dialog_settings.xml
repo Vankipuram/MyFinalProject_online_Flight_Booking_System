@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\NVANKIPU\Downloads\Back-End-Microservices-master (1)\Back-End-Microservices-master\User"/>
+			<item value="C:\Users\NVANKIPU\Downloads\Back-End-Microservices-master (1)\Back-End-Microservices-master\Signup-Sigin"/>
+			<item value="C:\Users\NVANKIPU\Downloads\Back-End-Microservices-master (1)\Back-End-Microservices-master\FlightsMS"/>
+			<item value="C:\Users\NVANKIPU\Downloads\Back-End-Microservices-master (1)\Back-End-Microservices-master\ZuulGateway"/>
+			<item value="C:\Users\NVANKIPU\Downloads\Back-End-Microservices-master (1)\Back-End-Microservices-master\Eureka-server"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

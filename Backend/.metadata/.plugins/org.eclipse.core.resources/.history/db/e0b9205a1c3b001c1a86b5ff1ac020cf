@@ -1,0 +1,6 @@
+spring.data.mongodb.uri=mongodb+srv://user:<password>@user.sp1ha.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+server.port=8001
+spring.application.name=FlightMS
+
+

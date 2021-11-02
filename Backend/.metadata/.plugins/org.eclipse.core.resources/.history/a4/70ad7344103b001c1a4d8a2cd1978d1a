@@ -1,0 +1,3 @@
+spring.data.mongodb.uri=mongodb+srv://Dwivedi52625:Kanak@cluster0.fzz8d.mongodb.net/UserDetails?retryWrites=true&w=majority
+server.port=8004
+spring.application.name=User

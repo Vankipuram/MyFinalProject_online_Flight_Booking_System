@@ -1,0 +1,6 @@
+spring.data.mongodb.uri=mongodb+srv://Dwivedi52625:Kanak@cluster0.fzz8d.mongodb.net/FlightDetails?retryWrites=true&w=majority
+
+server.port=8001
+spring.application.name=FlightMS
+
+
